@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+}
+
+.header{
+    background-image: url('../images/donation3.jpg');
+    background-repeat: no-repeat;
+    background-color: brown;
+    text-align: center;
+    background-size: auto;
+    
+    
+}
+
+.main-title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 65px;
+    font-style: bold;
+    font-weight: 700;
+    padding: 0 100px;
+    padding-top: 200px;
+    margin-bottom: 20px;
+
+}
+
+
+.discription{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    size: 18px;
+    color: white;
+    margin-bottom: 30px;
+    
+}
+
+.btn{
+    width: 160px;
+    height: 56px;
+    background-color: #FF5959;
+    border: none;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 175px;
+    border-radius: 5px;
+
+}
+
+.donet-title{
+    text-align: center;
+    margin-top: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #121212;
+    margin-bottom: 20px;
+
+}
+
+
+.donet-dis{
+
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 30px;
+}
+
+.donet-today{
+    font-weight: 800;
+    font-size: 35px;
+    margib
+
+
+}
+
+
+.amount-itm{
+    
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    /* justify-content: space-between; */
+    position: absolute;
+    padding-left:20%;
+   
+
+}
+
+.tk1{
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 50px;
+    background-color: #FAFAFA;
+    padding: 44px 25px;
+    color: #707070;
+    font-size: 30px;
+    text-align: center;
+
+    
+}
+
+.tk2{
+    border-radius: 5px;
+
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 50px;
+    background-color:rgba(255, 238, 238, 1);
+    border: 2px solid rgba(255, 89, 89, 1);
+    padding: 44px 25px;
+    color: #707070;
+    font-size: 30px;
+    text-align: center;
+
+    
+}
+
+.tk3{
+    border-radius: 5px;
+
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 50px;
+    background-color: #FAFAFA;
+    padding: 44px 25px;
+    color: #707070;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.tk4{
+    border-radius: 5px;
+
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 50px;
+    background-color: #FAFAFA;
+    padding: 44px 25px;
+    color: #707070;
+    font-size: 30px;
+    text-align: center;
+
+    
+}
+
+.tk5{
+    border-radius: 5px;
+
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 50px;
+    background-color: #FAFAFA;
+    padding: 44px 25px;
+    color: #707070;
+    font-size: 30px;
+    text-align: center;
+
+    
+}
+
+.other-tk{
+    margin-top: 230px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #180f0f;
+    position: absolute;
+    margin-left: 45%;
+    
+
+
+}
+
+.btn2{
+    margin-top: 300px;
+    margin-left: 45%;
+
+    
+}
+
+.donet-title1{
+    text-align: center;
+    margin-top: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #121212;
+    margin-bottom: 20px;
+    margin-top: -120px;
+
+
+    
+}
+
+
+.donet-dis1{
+
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 30px;
+}
+
+.donet-today1{
+    font-weight: 800;
+    font-size: 35px;
+    margib
+
+
+}
